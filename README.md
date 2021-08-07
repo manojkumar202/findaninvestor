@@ -5,7 +5,7 @@ The data is related with direct marketing campaigns of a Portuguese banking inst
 Often, more than one contact to the same client was required, in order to access if the product (bank term deposit) would be ('yes') or not ('no') subscribed.
 # Domain: Banking
 # Result of the project:
-● Exploratory Data Analysis
-● Preparing the data to train a model
-● Training and making predictions 
+● Exploratory Data Analysis \\
+● Preparing the data to train a model \\
+● Training and making predictions \\
 ● Comparing model performances
